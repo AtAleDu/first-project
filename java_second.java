@@ -6,8 +6,7 @@ public class Course {
 	public static void main(String[] args) {
 		HashMap<String,String>statesCapitals = new HashMap<>();
 		statesCapitals.put("Russia", "Moscow");
-		statesCapitals.put("France", "Paris");
-		statesCapitals.put("Italia", "Rim");
+
 		
 
 	}	
